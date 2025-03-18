@@ -7,5 +7,7 @@ def wait_hour():
     time.sleep(3600)
 def wait_day():
     time.sleep(86400)
+def wait(secound):
+    time.sleep(secound)
 
 
